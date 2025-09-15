@@ -10,12 +10,12 @@
 
 ##  常用工具
 
-- **Watt Toolkit**：国人开发的免费加速器，是steam++的前身，仅能访问github,spotify等，但是很多国外网站还是访问不了。
+- **Watt Toolkit**：国人开发的免费加速器，steam++是它的前身，仅能访问github,spotify等，但是很多国外网站还是访问不了。
 - **Clash**：更专业的工具，可以配置代理，可能需要付费。
 
 # 1.浏览器
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=OGVjMDEwZGY5ZjY5NjQ0N2JmNDM2OGFhNDA1ODBmNDJfUGVxV0NQRmMxMXQxSTFtWTNBWEhtWjJVVXJEVXNoSlNfVG9rZW46QjFJTmJ0Uklob0ozVG54MG1pQmNZYUc3bmNiXzE3NTc4NDkxMzc6MTc1Nzg1MjczN19WNA)
+![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=NzNlMzI4MDQ5MzQzYjk0OWEyNTA2M2Q4ZTkxM2RhNDVfVk9RV2lFWkNjUlZsdU56eWlzRm90UjEzS0pqeVhORUdfVG9rZW46QjFJTmJ0Uklob0ozVG54MG1pQmNZYUc3bmNiXzE3NTc5MTM2NDk6MTc1NzkxNzI0OV9WNA)
 
 你写的所有前端代码，最终都要“登台表演”，而这个舞台就是**浏览器**。 一个好的浏览器，不仅能展示你的成果，还能成为你学习、调试的得力助手。
 
@@ -33,21 +33,23 @@
 
 ## 📝 代码编辑器（Code Editor）——**VSCode**
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=NTNhYTMzY2E1NDljMTE1NDE1NGFhMjE3YTMwNmU5ODFfdUNtVmZYV0k4VjlNSjA5T2tvMHJLVGdTY2JjQkU0VVRfVG9rZW46UGdlYmJRM2kyb00zUld4ZzBac2M4b1lRbm9jXzE3NTc4NDkxMzc6MTc1Nzg1MjczN19WNA)
+![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=NTQ5MmQxOTMzMGY2YzE0ZWRkOWZhYWI5NWIxZjg4NDNfeERLRFFoVWtibXQxd2dITWNBNDRDOTh1ZGFsSFN2QjZfVG9rZW46UGdlYmJRM2kyb00zUld4ZzBac2M4b1lRbm9jXzE3NTc5MTM2NDk6MTc1NzkxNzI0OV9WNA)
 
 - 就像一本轻便的笔记本，打开就能写。
 - 特点：启动快、占资源少、扩展性强。
 - 适合：新手入门、小项目、快速实验。
 - 下载：https://code.visualstudio.com/
+- 教程：[VS Code安装及环境配置(超详细)_vscode配置环境-CSDN博客](https://blog.csdn.net/2302_76708905/article/details/139896744)
 
 ## 💻 IDE（Integrated Development Environment，集成开发环境）——**WebStorm**
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=OTliYjljNDg0YTRkYzE3ZDA3MGQ3MDA2MDBhMjc3ZDNfSHBOam5FdGVoeld2b0FYcFptcXR3TjM3Y2Z5VkttMWNfVG9rZW46S3ZQTmJwenlqb29KRGd4NkJFemMyQVRFbjJmXzE3NTc4NDkxMzc6MTc1Nzg1MjczN19WNA)
+![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=NjUxOTYyYzk1NGRkYjM5MmQwZjYzNTgyNTdiYzUyMTFfSU5Qb0l6bnAyZ3h4YndQa1dIRElIckRMNVZFWXZmRnpfVG9rZW46S3ZQTmJwenlqb29KRGd4NkJFemMyQVRFbjJmXzE3NTc5MTM2NDk6MTc1NzkxNzI0OV9WNA)
 
 - 就像一张配齐工具的豪华办公桌。除了编辑代码，还集成了调试器、版本控制、数据库工具、构建工具。
 - 特点：功能强大、智能提示更精准，但体量大、资源消耗多。
 - 适合：中大型项目、企业开发、需要强大调试功能时。
 - 下载：https://www.jetbrains.com/webstorm/
+- 教程：[WebStorm 安装配置(详细教程)_webstorm安装-CSDN博客](https://blog.csdn.net/m0_62854966/article/details/143258970?ops_request_misc=%7B%22request%5Fid%22%3A%22ae6e435972904ee0e7862475d5b99f2f%22%2C%22scm%22%3A%2220140713.130102334..%22%7D&request_id=ae6e435972904ee0e7862475d5b99f2f&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-143258970-null-null.142^v102^pc_search_result_base6&utm_term=webstorm&spm=1018.2226.3001.4187)
 
 ## 环境搭建
 
@@ -58,13 +60,13 @@
 
 下载：https://nodejs.org/zh-cn/download
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=ZmI2YzMxYjIxODQ3Y2U4Y2QyMzA4MjQ5NjNiY2ViYjFfSEdNSTByQ3Q1NktxVEsxRzBCeXdyYlFzalFicGNNb3lfVG9rZW46U2NId2JLZVFOb2drWmt4MDVNZ2NqZjdDbmd4XzE3NTc4NDkxMzc6MTc1Nzg1MjczN19WNA)
+![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=MWM2MTA2YzE2MGU3MmE5YmM4MWY2YzMyMDNhNDNlOTZfbmZLa1pQaXNqNXpxWkNMSnJvT3FGcGZrWjRhM2tUTkhfVG9rZW46U2NId2JLZVFOb2drWmt4MDVNZ2NqZjdDbmd4XzE3NTc5MTM2NDk6MTc1NzkxNzI0OV9WNA)
 
 可以参考[Node.js安装及环境配置超详细教程【Windows系统】_windows 安装nodejs-CSDN博客](https://blog.csdn.net/Nicolecocol/article/details/136788200)
 
 # 3.Github
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=YTVkODdhYzE1ODkwMTRkMDNjNTgxNmYxMTY5ZDJiNDRfMzNxWlZLVzJWTlhkY0d0QjFDT2w5SldYS0h2V0pGanVfVG9rZW46UjdxMmI4YUVSb0lYZmR4eVZaSWNqWFRzbjVmXzE3NTc4NDkxMzc6MTc1Nzg1MjczN19WNA)
+![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=ZGJlY2Y4MjcwNjM5YjBiMjdjY2VkNjA5NDQ1NjAwZGVfN0JoelRkYmVpTUlMbnh3THZGVkhvMXBhem02a2pGU2NfVG9rZW46UjdxMmI4YUVSb0lYZmR4eVZaSWNqWFRzbjVmXzE3NTc5MTM2NDk6MTc1NzkxNzI0OV9WNA)
 
 **GitHub** **是全球最大的代码托管平台**，程序员们写的项目、笔记、库文件都可以放在这里。 我们后续的 **课件和作业也会统一上传到 GitHub**，方便大家查看和管理。 它基于 **Git 版本控制**，功能有点像“云盘”，但远不止于此 —— **不仅能保存代码，还支持多人协作、版本回滚和开源分享**。
 
@@ -82,7 +84,7 @@
 
 使用可以看这篇教程：[Git 常用基本命令使用详细大全_git命令行-CSDN博客](https://blog.csdn.net/qtiao/article/details/97783243)
 
-不想使用命令行的话，可以使用哦**GitHub** **Desktop**，它是 GitHub 官方出品的一款 **图形化 Git 客户端**。 对新手来说，比命令行更直观，用来管理仓库、提交代码、同步远程仓库都很方便。
+不想使用命令行的话，可以使用**GitHub** **Desktop**，它是 GitHub 官方出品的一款 **图形化 Git 客户端**。 对新手来说，比命令行更直观，用来管理仓库、提交代码、同步远程仓库都很方便。
 
 下载：https://github.com/apps/desktop
 
@@ -100,7 +102,7 @@
 
 ## 💡 什么是 Markdown？
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=MTFkZWI1MzA2OWQ3NDQ0YzY3NTcxNGUyZTljNGE2Nzdfc3VQVEtrelFGNGVUOUo1TExQbXhGdE1Ia1oxaFhFM0hfVG9rZW46TVFWUWJDNEVwb3Q5V0h4bVZRb2NscnFUbkNlXzE3NTc4NDkxMzc6MTc1Nzg1MjczN19WNA)
+![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=Yzc4Mjk0M2JmOTBhYTk0MmU0ZDI1ZWUxM2IxYWFkZjVfZkI2aklsTHhPS0RVaEdXUjVsTVE1WXJiUU50cE1GSURfVG9rZW46TVFWUWJDNEVwb3Q5V0h4bVZRb2NscnFUbkNlXzE3NTc5MTM2NDk6MTc1NzkxNzI0OV9WNA)
 
 - Markdown 是一种 **轻量级标记语言**。
 - 用几个简单的符号（`#`、`*`、`-` 等）就能给文字加上格式。
@@ -110,7 +112,7 @@
 
 - **所见即所得**：输入 `# 标题`，立刻变成大标题。
 - **界面简洁**：没有花里胡哨的工具栏，让你专注内容。
-- **官网**：https://typoraio.cn/（需付费，如果没有条件支持可以去群文件查看破解版）
+- **官网**：https://typoraio.cn/（需付费，如果没有条件支持可以私聊学长学姐）
 
 # 6.学习习惯及提问的智慧
 
@@ -161,23 +163,23 @@ ctrl+z撤回操作，返回到正常运行的时候的代码。
 
 举个例子，这是React库的中文文档，包括了该库的安装配置以及功能语法。
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=OTFkZWYzZDY5YjcwYmQ0MzE2MDJmNzNlNWQxY2Q2ZWZfblF5R3E2OUhSNTg3NEJ6RHBUVmRXZ1E0QldPbkU0VjRfVG9rZW46S3hIRmIxNFpSb0tFY054VVBBT2MydXlqbkViXzE3NTc4NDkxMzc6MTc1Nzg1MjczN19WNA)
+![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=NjFmYjlhNTk4ZDQzYWZlNzdkZTliZTY2YmRmYjkxMjVfMHYxdXJ2ZkVmRTRySXk5RXdsenJVUVRXSTdSWlpwaHlfVG9rZW46S3hIRmIxNFpSb0tFY054VVBBT2MydXlqbkViXzE3NTc5MTM2NDk6MTc1NzkxNzI0OV9WNA)
 
 官方文档（Docs/API）是最权威的答案。看得懂文档，你才会有提升。在后期学习过程中，我们需要接触到vue/react，需要查看官方文档去进行使用。当然，一些UI组件库我们也需要会查文档写代码。
 
-- **用** **AI**
+- **用 AI**
 
 > 不是吧，2025年了还有人不会用AI？？
 
 国外的大模型一般涉及到付费、科学上网的问题，所以初学使用体验下来可能不是很好。不过国内的大模型[Kimi ](https://kimi.moonshot.cn/)、[豆包](https://www.doubao.com/)、[通义千问](https://tongyi.aliyun.com/)、[DeepSeek](https://chat.deepseek.com/)也还行，遇到不会的问题把自己的代码贴给它询问就可以了。
 
-当然，**AI****只能是助教，而不是你的保姆**。完全用AI写代码，你的能力不会提升多少。
+当然，**AI只能是助教，而不是你的保姆**。完全用AI写代码，你的能力不会提升多少。
 
 - **整理问题，带图提问**
 
 这时候就可以整理报错信息 + 自己尝试过的方法发给学长学姐帮忙，最重要的一点是**截图**，而不是糊糊的拍照。
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=ZjIxNjNhYThkMDA3MTU0MGU4OTBiYjZkNjFjMWU1MzFfYnRzYWh1Z1BpTkp5d1RQRmVwZXNFVWpMdWxjQm82Y1lfVG9rZW46RU9nTGJGN09pb3E3Rjh4bGNNb2NWVFdvbmtjXzE3NTc4NDkxMzc6MTc1Nzg1MjczN19WNA)
+![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=NzFiOGExZTM0YjVhMDU3Njg4YWRhZWFlNDUyMTBkOTRfb1RvQ2l2a0RXOFB5Z3QxZnQ3TEJxZWtKTnd2emlKVzVfVG9rZW46RU9nTGJGN09pb3E3Rjh4bGNNb2NWVFdvbmtjXzE3NTc5MTM2NDk6MTc1NzkxNzI0OV9WNA)
 
 当然我相信聪明的你一般前几步就解决了自己的问题！
 
@@ -189,8 +191,10 @@ ctrl+z撤回操作，返回到正常运行的时候的代码。
 
 # 7.小作业
 
-安装了**node,****npm****,git**环境之后，在你的**vscode,****webstorm****终端或者是windows** **powershell**里依次输入**git --version，node -v，npm -v**来查看你的开发环境是否安装成功。
+安装了**node,npm,git**环境之后，在你的**vscode,webstorm终端或者是windows powershell**里依次输入**git --version，node -v，npm -v**来查看你的开发环境是否安装成功。
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=NDBlYzM2NzdhYzIyMTExYWIwNGI4ZDViNGNmMDkyMmJfejdScjBYQVNwWVZEMHliZjlnWFpvcDRobjc2dlhBc2NfVG9rZW46VWJkTGJkMmgwb2dUNTF4U2w1N2NleGJpblJmXzE3NTc4NDkxMzc6MTc1Nzg1MjczN19WNA)
+![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=ZDRiYTRmMDBlMWE2NTAzNTdiNDU1YjAxMzkzOWQyOWNfYndPMmlJbDdvd3ZkQWNnbzZMWkN6ekw2QWtSb1JNMlhfVG9rZW46VWJkTGJkMmgwb2dUNTF4U2w1N2NleGJpblJmXzE3NTc5MTM2NDk6MTc1NzkxNzI0OV9WNA)
 
-如图，输出版本号，**前三名发到QQ群的小灯**可以获得奶茶作为奖励，欢迎大家参与。
+~~如图，输出版本号，**前三名发到QQ群的小灯**可以获得奶茶作为奖励，欢迎大家参与。~~
+
+**活动已截止，各位没有获奖的小灯可以等待后续的课程，我们仍会采取奖励的形式鼓励大家积极参与。**
