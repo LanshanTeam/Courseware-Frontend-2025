@@ -24,7 +24,7 @@
 
 版本控制是指能够记录、管理文件或文件集合的内容及其随着时间推移发生的变化的系统。
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=ZmM5YjAwN2ZlODBhNDVlOTgyZWY1N2FhYzE3YWU0YTZfbTFBcjRpaGxlVWNUVnBUNURTTVB5U0Z3VlFjWE53b3JfVG9rZW46VVNCemJ3QU9Jb0szU2d4TG5HamNBZTVHbnpiXzE3NTg0NTY4MTE6MTc1ODQ2MDQxMV9WNA)
+![1280X1280](https://raw.githubusercontent.com/Senyu2333/pic/master/1280X1280.PNG)
 
 **集中式版本控制系统**（Centralized Version Control Systems，CVCS）有一个 **中央服务器**保存所有代码和历史记录。每个开发者只能从中央服务器下载最新代码，自己机器上只存工作区。
 
@@ -32,7 +32,7 @@
 
 因此，**分布式****版本控制系统**（Distributed Version Control System，DVCS）因而诞生。
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=NWMxNzdkMzE5NTNmMzU1NTY0ZTQwMDkyNTc3NzE4MTdfN2gySHJCWnFCa0ZEWmY2TFc0eFhSYVk2c2N1TmtBM1FfVG9rZW46WG4ycmIwU2FTb254dkh4blVjNGNHZW10blRnXzE3NTg0NTY4MTE6MTc1ODQ2MDQxMV9WNA)
+![img](https://raw.githubusercontent.com/Senyu2333/pic/master/1280X1280%20(1).PNG)
 
 **分布式****版本控制系统**每个开发者的电脑里都有 **完整的仓库副本**（包含全部历史），而远程仓库只是“同步中心”，不是唯一来源。任何人都能恢复整个项目，并且分支、合并非常方便。
 
@@ -46,7 +46,7 @@
 
 就在这个关键时刻，**Linux 之父 Linus Torvalds** 决定亲自出手，重新开发一款新的版本控制系统。
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=MmU0YjZjY2Y5OTc3NTU0OTBkYWYwM2I1ZGExMWRhYjVfTTZ3ejVjcjNmVjY3QmRnS0FhQ3JkQ0dSY3g1cEQ4YXRfVG9rZW46TGVCTmJ0eGhib2ptOUZ4UWxDTmM4ZGE1bm4yXzE3NTg0NTY4MTE6MTc1ODQ2MDQxMV9WNA)
+![img](https://raw.githubusercontent.com/Senyu2333/pic/master/1280X1280%20(2).PNG)
 
 他为新系统设定了几个目标：
 
@@ -61,7 +61,7 @@ Linus 仅仅用了 **两周时间** 就完成了 Git 的雏形。 很快，Linux
 
 ## 2.3.Github
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=NTFjMmZkMDIwN2QwYzI1ZTRhYjRlMDhhZTE4YmRmMjJfN1FTanZPTXJxOWl4TU1YdVd2MVZkYmg4cFJDaE9uR05fVG9rZW46VGpnT2J3NVpsb0dWWlh4MmczU2NZMWZZbnBiXzE3NTg0NTY4MTE6MTc1ODQ2MDQxMV9WNA)
+![img](https://raw.githubusercontent.com/Senyu2333/pic/master/b424d8e1-d5ed-496a-9c9c-73952de88141.png)
 
 GitHub 是一个 **基于 Git 的托管平台**。它是一家网站/云平台，提供：
 
@@ -105,15 +105,15 @@ GitHub 是一个 **基于 Git 的托管平台**。它是一家网站/云平台�
 
 **点击"+",选择New** **repository**
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=N2Q1OWRjZDhhNzljNTA1NWQ3MDFjNWFiMWEzZjhmOWZfRTNGVDdNY05iTmZSQzRidHJpQzg4dkowVWFZUFNlcG1fVG9rZW46UXdUMmJtcUdMb2xJVzV4Y05UWGNBNnB2blFmXzE3NTg0NTY4MTE6MTc1ODQ2MDQxMV9WNA)
+![img](https://raw.githubusercontent.com/Senyu2333/pic/master/ba389fbe-ec86-4bd4-9cc5-93bb591f36c8.png)
 
 2.**填写远程仓库名称及其描述**
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=ZmY1MjEzZTYzNDIyMTQwY2UyOWNjNWY0ZWI3YjUwZGZfOVdKSDQ2RzF0UU1FdXJXaktWbnF4ZVpkQjlIZTFxVlBfVG9rZW46THRwcWJpbzBWb0swRTh4b2lVV2M5alN4bldlXzE3NTg0NTY4MTE6MTc1ODQ2MDQxMV9WNA)
+![img](https://raw.githubusercontent.com/Senyu2333/pic/master/c383d882-95a0-400c-8d6d-d2ba0852425f.png)
 
 点击Create repository,出现该页面的话就代表成功创建远程仓库：
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=YjJmNTRjMGQwNjU1YzFkYzAwMmQxN2ViYTczZDRkMmRfZndvckgzbUlKck5mU3ExOHhwakI4cmh2a05tUWZwS2JfVG9rZW46QU5ZRmJlb3Myb2huTHF4Tm4xQmNxMXRybmdlXzE3NTg0NTY4MTE6MTc1ODQ2MDQxMV9WNA)
+![img](https://raw.githubusercontent.com/Senyu2333/pic/master/1ee638c6-dce3-44d5-b3e2-c5b667aa89ce.png)
 
 ### 2.5.1.初始化本地仓库
 
@@ -127,7 +127,7 @@ git init
 
 如果终端如图输出，说明你新建了一个 **隐藏的 .git 文件夹，以后在这个目录下写的代码，都能被 Git 管理！**
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=MjAzNDczNjdkZTU4MzI1M2RhMTYzOWMxMDYxMTIwYWFfcXdTRHYydHBaRlFhbWRIaVA3MkN5U1JFcE5yOUJOeWFfVG9rZW46WHF3MWJSM09Rb0NTRWV4ajZaaGM0eWtPbnVlXzE3NTg0NTY4MTE6MTc1ODQ2MDQxMV9WNA)
+![img](https://raw.githubusercontent.com/Senyu2333/pic/master/cbccfa98-d437-4214-bd7e-7c09f9591307.png)
 
 ### 2.5.2.添加文件到暂存区
 
@@ -151,7 +151,7 @@ git add README.md
 git status
 ```
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=NmVmZDJhZDY3Mjc3ZTIxZDM1YzMwNThjNTdlNjJmOGNfWmdhbmpnTmdncnpPbkl3b09vemNxeDlkd2ZkTTBMQmlfVG9rZW46RFZ1bWJXRmZSb0F2RzZ4a1JhVGNLSTZ1bkplXzE3NTg0NTY4MTE6MTc1ODQ2MDQxMV9WNA)
+![img](https://raw.githubusercontent.com/Senyu2333/pic/master/92a5f1d8-a367-4f94-9050-fdf8b783be8a.png)
 
 > 如图，终端对我们作出了反馈：
 >
@@ -169,7 +169,7 @@ git status
 git commit -m "doc(init): add README.md"
 ```
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=MDUwMjU2MGEyMTA3NzJiNzA2MmI4MDhiODQwMzYzOThfeWRFc2pKZVRJT0NnYm9oTUVmU0RzMkVzSHZhdEhUQVpfVG9rZW46RGVMSGJ1V0FYb3BvZ1h4aTI2VmMzSHc4bmtlXzE3NTg0NTY4MTE6MTc1ODQ2MDQxMV9WNA)
+![img](https://raw.githubusercontent.com/Senyu2333/pic/master/fbabe30b-5a28-41a9-99f3-118b8be81c04.png)
 
 > 如图，终端对我们作出了反馈：
 >
@@ -213,7 +213,7 @@ git push -u origin master
 
 但是，终端突然显示了一大段话：
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=NzU1ZjY3ZDM5MmQ5ZGU1ZGVmYjM5NmQwZGY4YjJjY2NfbVl1WlRITEt1UG9OOU5JZUhSVlYwS3JRMnlOdnN6RTFfVG9rZW46TGlsMWJERFo3b2kwZHF4WnZhWmN2VFZvbnpoXzE3NTg0NTY4MTE6MTc1ODQ2MDQxMV9WNA)
+![img](https://raw.githubusercontent.com/Senyu2333/pic/master/a7157ab9-eb2b-492b-9d18-80225fa026d3.png)
 
 **这个提示非常正常，不用慌**。它的意思是：当你第一次用 **SSH** 连接 GitHub 时，Git 需要确认：
 
@@ -225,11 +225,11 @@ git push -u origin master
 
 就是要你确认是否信任这个服务器。**我们直接输入yes,然后回车就行！**
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=Zjc0ZmRhYjhkYzg1MWI2OWRkMThlODlkZWIwZDZlMzdfMTcwYlBTUlV3cUphRjFOMWJzd2NSZTc0T2x6d1pjSERfVG9rZW46QmpvUmJhckdRb0dpalR4eEZjamNZYThsbmxkXzE3NTg0NTY4MTE6MTc1ODQ2MDQxMV9WNA)
+![img](https://raw.githubusercontent.com/Senyu2333/pic/master/3a4c6b73-4338-4517-9c8b-790a13e255dd.png)
 
 这样，我们就**第一次成功推送到** **GitHub****了！并且GitHub 的****公钥****被记住了，以后不会再问你一遍了。**
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=MWJiZTU3YjI1YTFkZjY5NjIwMjZkM2NjYzE4MzUxMGZfQ05QTzQ3eXBVczZtRkF3c0JTeUludGlDYzdscjRFdENfVG9rZW46QjRYWWJJTEJUb0t5NTJ4RU41VGNRcFlEbm9nXzE3NTg0NTY4MTE6MTc1ODQ2MDQxMV9WNA)
+![img](https://raw.githubusercontent.com/Senyu2333/pic/master/813d1860-22e4-468a-98cf-7382d2e4acee.png)
 
 **Github****也正常显示了！**
 
@@ -243,7 +243,7 @@ git log
 
 如图是我们的提交历史：
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=YWEwN2IxOWMxNTA5ODllODFhZTkzYmQ5MGZiMWRhNWFfMWFiSWRLRnpwZWdLcE5WZGNDbm92VEJ0TjBFczJDMkdfVG9rZW46UFpqbmIyOVJrb2pXN1p4MFpGaWNpemxrblRoXzE3NTg0NTY4MTE6MTc1ODQ2MDQxMV9WNA)
+![img](https://raw.githubusercontent.com/Senyu2333/pic/master/ef6abb4c-0c1c-475b-9a19-41e5fdc3568d.png)
 
 # 3.Github
 
@@ -265,27 +265,27 @@ git log
 
 > 收藏课件谢谢喵~
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=NmEwN2Q3ZDU4YjIwYWU2NGE1MjlhNGJiZGM5MGYxM2RfZ3E0dXd1cXhGY1JyUnBOeUwySm5JU2x6d2RPYTlxdkZfVG9rZW46WmtYNmJVYXVEb3NyZVN4REhJTmNxQ0dQbkRoXzE3NTg0NTY4MTE6MTc1ODQ2MDQxMV9WNA)
+![](https://raw.githubusercontent.com/Senyu2333/pic/master/763de3bc-1c85-4113-85fc-9f8d4686d6d2.png)
 
 Star数也是一个项目人气的象征。**它能直接展示你的实力！**
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=NTk2OTE2MGViOTA1ZWNhZDE4NTVjYzhmNjUxMzkzZjZfR1gxU0FvWVJLNW9wRWR1a282VjA3M3FXV3RQNTdrak5fVG9rZW46WXlZVWJXdVZpb2dhamR4OTRUYWN2U1RTblVlXzE3NTg0NTY4MTE6MTc1ODQ2MDQxMV9WNA)
+![img](https://raw.githubusercontent.com/Senyu2333/pic/master/d9ebe083-0c25-4829-a3f6-29fa4bffbf27.png)
 
 ## 3.2.🍴 Fork
 
 **Fork**, 复制别人的仓库到你自己的账号下。
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=ODdmNzc4OWQzOTJkMmZmMTJiZmU2OGZjYmFkNThkN2ZfRWt1ZDBoUGRBeHFPeUdXTlc4SXJaSGdFd3pNU2lvUjlfVG9rZW46VEM1emI4Y1I1b1E5S1d4c1pIS2MzSVphblJkXzE3NTg0NTY4MTE6MTc1ODQ2MDQxMV9WNA)
+![img](https://raw.githubusercontent.com/Senyu2333/pic/master/44b9f4db-e661-472f-a7ab-27207c7337a7.png)
 
 这样，我们就得到了一份一模一样的仓库：forked from指示着原仓库。
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=NGVjMzJjNGQ1ZDA5N2ViOWQ5MTQ5MzFjNzhiNDAwYjFfbGhyY1M3YVh3WnA4NFYxdGR5TlRaSU9WSkFyakZFMU5fVG9rZW46SUZQMWJZZEQyb1hGeGZ4NlhWeWNPdXYybjliXzE3NTg0NTY4MTE6MTc1ODQ2MDQxMV9WNA)
+![img](https://raw.githubusercontent.com/Senyu2333/pic/master/cbe55bde-5db9-4de7-b047-d9f13d002952.png)
 
 ## 3.3.🖥️ Clone
 
 fork只是把别人的仓库复制成自己的远程仓库，我们想要在本地改代码，就要使用**Clone把它变成自己的本地仓库**。
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=MzIwZWZlN2ViZjFjZTcxZGQ1YTQwMmQzMTcyOTcyNDlfMWw5U1B4ODBVaE5vTzBIRlBJeVVQUTBjUXMwYlpiUkhfVG9rZW46VU5SeWJ2cnhkb0ZIRXZ4TnA1R2NmRjg0blljXzE3NTg0NTY4MTE6MTc1ODQ2MDQxMV9WNA)
+![img](https://raw.githubusercontent.com/Senyu2333/pic/master/56c12f10-6f36-442b-a7d2-32a20170c2b9.png)
 
 三种方式皆可以保存到我们本地:
 
@@ -299,19 +299,19 @@ fork只是把别人的仓库复制成自己的远程仓库，我们想要在本�
 
 发现 Bug 或有新想法，可以**提Issue，这是和项目作者交流的主要渠道。**
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=MjU3NGJmZmM1NWRkMDEzNDZjY2FkNDY2YWI4YmJlZjZfMEoydXBHOUN0RmFDSXVwQjJ3VU9vd2lSMURwckF4ajFfVG9rZW46WEFDeGI2Rk1ub29ocnp4UkRPN2N6NjljbnViXzE3NTg0NTY4MTE6MTc1ODQ2MDQxMV9WNA)
+![img](https://raw.githubusercontent.com/Senyu2333/pic/master/31c0cfad-d48d-4c95-b6c4-d5d34a004b11.png)
 
 ## 3.5.👤 Follow  
 
 Follow大牛，第一时间看到他们的新项目。从而获取学习资源、了解最新技术趋势。
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=MWIzOThmMzc4OTYzOGRhNWZiOGNkYTY5ZTkwNjdjYTRfTjZURFdKdTZqanJYVTVwM0hJSjBIV0xpTnV6QlA2NVlfVG9rZW46SzhZWmJwdVdWb1NNUU94ZVdJd2NsMUVsblJnXzE3NTg0NTY4MTE6MTc1ODQ2MDQxMV9WNA)
+![img](https://raw.githubusercontent.com/Senyu2333/pic/master/e518da8b-3614-447d-9404-493c8f581aa7.png)
 
 **关注蓝山谢谢喵~**
 
 # 4.Github Desktop
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=YzE4MmZiYjUyYzZkYzQ3ODdlOTNjNmE2NTkyYTBiZGJfVHc1ZFljeXZlM2hJc0JWcWlGWFo0cFpoYmhFSW5IN0hfVG9rZW46R01mWWJKemtYb0h1S3F4SHR2V2NpWmZMbkJoXzE3NTg0NTY4MTE6MTc1ODQ2MDQxMV9WNA)
+![img](https://raw.githubusercontent.com/Senyu2333/pic/master/6c385b65-756b-4baf-8770-e0f00f65cee5.png)
 
 GitHub Desktop 是 GitHub 官方出的 **图形化 Git 工具**。 在第二章的时候，我们用Git 都要敲命令，GitHub Desktop直接把这些命令做成了按钮和界面，让你直接**点一点**就能完成。
 
@@ -319,19 +319,19 @@ GitHub Desktop 是 GitHub 官方出的 **图形化 Git 工具**。 在第二章�
 
 ## 4.1.安装
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=Y2JjMzUyNTgyMzcwMmNhMGVjMTBjMGZhZDliODNkMWJfYUNkeGtqYnZ6YUhnbWIxdGo3Uk96TUhWSnNZWnB0NkpfVG9rZW46WjkyemJFd0w3bzRrT0p4N1ZSemNvZ3l4bkd6XzE3NTg0NTY4MTE6MTc1ODQ2MDQxMV9WNA)
+![img](https://raw.githubusercontent.com/Senyu2333/pic/master/b423f2be-0073-4ee7-b2fb-bed460e51709.png)
 
 去官网[github.com](https://github.com/apps/desktop)下载并安装，打开后，登录你的账号。
 
 ## 4.2.获取仓库
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=M2IzNGFhNGVhMDQ0OTQ5YjcyY2FiNmIxODZmMDQzZmZfcHlFRlBjV25kN29yRk9FVkJSOFlhNHpZd0t3Nk16N1VfVG9rZW46WGRhbmIzU2NCb1JyR2F4ejZDbmNSdXd0bjhiXzE3NTg0NTY4MTE6MTc1ODQ2MDQxMV9WNA)
+![img](https://raw.githubusercontent.com/Senyu2333/pic/master/e7c9f2bb-6ea3-4560-9efc-bb3e5fca66c1.png)
 
 这里给我们提供了三种选项：
 
 ### **4.2.1.****Clone** **Repository**
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=ODg1YmRkY2NjMmU0NGE4Yjc1YmUxNTQ2MWM2MTliZDFfOVBucFdjSUNxd0lWbUxOWVdxSVZ3RGNrdjJvbE5WVjdfVG9rZW46V1hKaWIxWDJLb0VYcVd4SVVpUGNWQkUxbk9oXzE3NTg0NTY4MTE6MTc1ODQ2MDQxMV9WNA)
+![img](https://raw.githubusercontent.com/Senyu2333/pic/master/c231eb26-28fb-4835-a3b3-c67e266cc86e.png)
 
 **GitHub.com:**你与你组织下的仓库，都是这里, 在下方选中点一下就能克隆。
 
@@ -339,25 +339,25 @@ GitHub Desktop 是 GitHub 官方出的 **图形化 Git 工具**。 在第二章�
 
 ### 4.2.2.Create New Repository
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=Yzg4N2JjZjNhMjA3YjM2Zjg4ODdmODJkODU5OWFmZTlfM2EwSnlKUWF6SG42TXpqUW5vUXlwZFYwQnVpYXJ5c1VfVG9rZW46WFlUeWJvNm1jb1hucHB4bkZ4V2NuZFlBbm9oXzE3NTg0NTY4MTE6MTc1ODQ2MDQxMV9WNA)
+![img](https://raw.githubusercontent.com/Senyu2333/pic/master/c2bfd464-200f-4196-9ccf-daba39d35637.png)
 
 填写信息，创建后，可以点 **Publish** **repository** 上传到 GitHub。
 
 ### 4.2.3.Add Local Repository
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=MmVjNGJlNDc3YjVhN2Q2OWQyNDI2ZDNjNDRhY2ZlOWNfWlEwcDdTbmhUZmdyWVJQZUVnaXc5VEUxT3hLUWJMbmVfVG9rZW46SzhDbWJWV3pvb1Z3S1F4TnRHS2N5Q21ubnVjXzE3NTg0NTY4MTE6MTc1ODQ2MDQxMV9WNA)
+![img](https://raw.githubusercontent.com/Senyu2333/pic/master/5a04527f-e185-4a5a-b587-b8f1b4cb475d.png)
 
 如果你本地已经有一个 Git 仓库，选中目录即可。
 
 ## 4.3提交和推送
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=YTRjMTJkODIwZjE2Y2JhNTBkZjcxOWVjNjAwYjUxYTFfazIwWjVLOEdjVlI1b3hLSmlGekFpTkxEMTZ2TUdIdkpfVG9rZW46R3BwamI1bmZQb2o5MEV4M3FEQWNFT0tIblJlXzE3NTg0NTY4MTE6MTc1ODQ2MDQxMV9WNA)
+![img](https://raw.githubusercontent.com/Senyu2333/pic/master/047204f4-48c2-4a84-85cd-839d056360d6.png)
 
 修改文件后，GitHub Desktop 会自动显示**改动的文件**。（右侧黄色是改动文件，绿色是新增文件，红色是删除文件）点文件可以预览改动。
 
 在左下角写 **Summary（必填）** 和 **Description（可选）之后，点击下方Commit就可以提交到当前分支。**
 
-![img](https://lanshanteam.feishu.cn/space/api/box/stream/download/asynccode/?code=Y2VhM2Q3YjkzOWIyNjgxZWI4ZjFlY2FiNjhmMDU3OTVfMnJyTXlyU2tVV3hIS25za0c1eEdrZEpVTTE1dzJ5TkdfVG9rZW46QlVoN2JOeTFUb0IxSEl4Y095WGNBMmxGblZlXzE3NTg0NTY4MTE6MTc1ODQ2MDQxMV9WNA)
+![img](https://raw.githubusercontent.com/Senyu2333/pic/master/a869138f-b9e2-4738-ba93-9dd9a51cb72c.png)
 
 提交后，点击上方的 **Push origin**，就可以把本地代码推送到 GitHub。
 
@@ -367,4 +367,3 @@ GitHub Desktop 是 GitHub 官方出的 **图形化 Git 工具**。 在第二章�
 
 请结合本课学习内容，克隆课件仓库到本地，并查看完成其中的作业。
 
-前四名完成作业的仍会获得奶茶奖励。
