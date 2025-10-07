@@ -15,7 +15,7 @@
 
 # 1.浏览器
 
-![f477314a-e6cf-461d-839a-620f3ed5eead](C:\Users\12436\OneDrive\Desktop\lesson0\f477314a-e6cf-461d-839a-620f3ed5eead.png)
+![f477314a-e6cf-461d-839a-620f3ed5eead](https://raw.githubusercontent.com/Senyu2333/pic/master/f477314a-e6cf-461d-839a-620f3ed5eead.png)
 
 你写的所有前端代码，最终都要“登台表演”，而这个舞台就是**浏览器**。 一个好的浏览器，不仅能展示你的成果，还能成为你学习、调试的得力助手。
 
@@ -33,7 +33,7 @@
 
 ## 📝 代码编辑器（Code Editor）——**VSCode**
 
-![038d4b4b-2dda-47fb-b1de-1b2233ec626a](C:\Users\12436\OneDrive\Desktop\lesson0\038d4b4b-2dda-47fb-b1de-1b2233ec626a.png)
+![038d4b4b-2dda-47fb-b1de-1b2233ec626a](https://raw.githubusercontent.com/Senyu2333/pic/master/038d4b4b-2dda-47fb-b1de-1b2233ec626a.png)
 
 - 就像一本轻便的笔记本，打开就能写。
 - 特点：启动快、占资源少、扩展性强。
@@ -43,7 +43,7 @@
 
 ## 💻 IDE（Integrated Development Environment，集成开发环境）——**WebStorm**
 
-![11f9055a-d20a-4ca8-bd7f-4ac636f14b52](C:\Users\12436\OneDrive\Desktop\lesson0\11f9055a-d20a-4ca8-bd7f-4ac636f14b52.png)
+![11f9055a-d20a-4ca8-bd7f-4ac636f14b52](https://raw.githubusercontent.com/Senyu2333/pic/master/11f9055a-d20a-4ca8-bd7f-4ac636f14b52.png)
 
 - 就像一张配齐工具的豪华办公桌。除了编辑代码，还集成了调试器、版本控制、数据库工具、构建工具。
 - 特点：功能强大、智能提示更精准，但体量大、资源消耗多。
@@ -60,7 +60,7 @@
 
 下载：https://nodejs.org/zh-cn/download
 
-![65339a87-6c6d-47b4-bfb0-50f9ac66d225](C:\Users\12436\OneDrive\Desktop\lesson0\65339a87-6c6d-47b4-bfb0-50f9ac66d225.png)
+![65339a87-6c6d-47b4-bfb0-50f9ac66d225](https://raw.githubusercontent.com/Senyu2333/pic/master/65339a87-6c6d-47b4-bfb0-50f9ac66d225.png)
 
 可以参考[Node.js安装及环境配置超详细教程【Windows系统】_windows 安装nodejs-CSDN博客](https://blog.csdn.net/Nicolecocol/article/details/136788200)
 
@@ -102,7 +102,7 @@
 
 ## 💡 什么是 Markdown？
 
-![6dbb5606-6d50-4d9d-aba1-518be40086f7](C:\Users\12436\OneDrive\Desktop\lesson0\6dbb5606-6d50-4d9d-aba1-518be40086f7.png)
+![6dbb5606-6d50-4d9d-aba1-518be40086f7](https://raw.githubusercontent.com/Senyu2333/pic/master/6dbb5606-6d50-4d9d-aba1-518be40086f7.png)
 
 - Markdown 是一种 **轻量级标记语言**。
 - 用几个简单的符号（`#`、`*`、`-` 等）就能给文字加上格式。
@@ -163,7 +163,7 @@ ctrl+z撤回操作，返回到正常运行的时候的代码。
 
 举个例子，这是React库的中文文档，包括了该库的安装配置以及功能语法。
 
-![f636ea8a-3d9e-47fa-b813-df4c089aaa15](C:\Users\12436\OneDrive\Desktop\lesson0\f636ea8a-3d9e-47fa-b813-df4c089aaa15.png)
+![f636ea8a-3d9e-47fa-b813-df4c089aaa15](https://raw.githubusercontent.com/Senyu2333/pic/master/f636ea8a-3d9e-47fa-b813-df4c089aaa15.png)
 
 官方文档（Docs/API）是最权威的答案。看得懂文档，你才会有提升。在后期学习过程中，我们需要接触到vue/react，需要查看官方文档去进行使用。当然，一些UI组件库我们也需要会查文档写代码。
 
@@ -179,7 +179,7 @@ ctrl+z撤回操作，返回到正常运行的时候的代码。
 
 这时候就可以整理报错信息 + 自己尝试过的方法发给学长学姐帮忙，最重要的一点是**截图**，而不是糊糊的拍照。
 
-![afa56b03-5c9d-4b21-8dc1-c4617bc29290](C:\Users\12436\OneDrive\Desktop\lesson0\afa56b03-5c9d-4b21-8dc1-c4617bc29290.png)
+![afa56b03-5c9d-4b21-8dc1-c4617bc29290](https://raw.githubusercontent.com/Senyu2333/pic/master/afa56b03-5c9d-4b21-8dc1-c4617bc29290.png)
 
 当然我相信聪明的你一般前几步就解决了自己的问题！
 
@@ -195,4 +195,4 @@ ctrl+z撤回操作，返回到正常运行的时候的代码。
 
 
 
-![cb58e814-db07-4dcb-913c-8416d777259e](C:\Users\12436\OneDrive\Desktop\lesson0\cb58e814-db07-4dcb-913c-8416d777259e.png)
+![cb58e814-db07-4dcb-913c-8416d777259e](https://raw.githubusercontent.com/Senyu2333/pic/master/cb58e814-db07-4dcb-913c-8416d777259e.png)
